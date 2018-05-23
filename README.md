@@ -1,5 +1,5 @@
 ### Setup
-* Fork, Clone, yarn install, yarn start
+<!-- * Fork, Clone, yarn install, yarn start -->
 * Use your checklist of how to make react components, use state and use events.
 
 ### Create components
