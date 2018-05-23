@@ -1,4 +1,5 @@
 import React from "react";
+import TransactionRow from "./TransactionRow";
 
 function TransactionsPanel() {
   return (
@@ -18,14 +19,7 @@ function TransactionsPanel() {
               </tr>
             </thead>
             <tbody>
-              {/*   <TransactionRow>   */}
-              <tr>
-                <td>3326</td>
-                <td>10/21/2013</td>
-                <td>3:29 PM</td>
-                <td>$321.33</td>
-              </tr>
-              {/*   </TransactionRow>   */}
+              <TransactionRow />
             </tbody>
           </table>
         </div>
