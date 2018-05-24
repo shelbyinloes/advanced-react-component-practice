@@ -1,5 +1,5 @@
 import React from "react";
-import TaskItem from "./TaskItem";
+import TaskItem from "./babyComponents/TaskItem";
 
 function TasksPanel() {
   return (

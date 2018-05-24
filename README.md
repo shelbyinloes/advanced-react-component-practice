@@ -20,20 +20,20 @@
 <!-- * DonutChart -->
 <!-- * TasksPanel -->
 <!-- * TransactionsPanel -->
-* MessagePreview (which is in TopNav)
-* DateTime (which is in MessagePreview)
+<!-- * MessagePreview (which is in TopNav) -->
+<!-- * DateTime (which is in MessagePreview) -->
 <!-- * TaskItem (which is in TaskPanel) -->
 <!-- * TransactionRow (which is in TransactionsPanel) -->
 
 ### Import and use components where appropriate
-* This is SOP from checklist.
-* Think of the import as creating a new html element
-* `import TopNav from "./components/TopNav"`
-* Think of TopNav now being an HTML element you can use
-* imagine if you did `import div from “./components/div”`
-* If you want that div to show up on the page, what do you do? Its the same thing with components
-* `<div />` is the same as `<TopNav />`
-* Replace the comments with the actual usage of the components (custom element)
+<!-- * This is SOP from checklist. -->
+<!-- * Think of the import as creating a new html element -->
+<!-- * `import TopNav from "./components/TopNav"` -->
+<!-- * Think of TopNav now being an HTML element you can use -->
+<!-- * imagine if you did `import div from “./components/div”` -->
+<!-- * If you want that div to show up on the page, what do you do? Its the same thing with components -->
+<!-- * `<div />` is the same as `<TopNav />` -->
+<!-- * Replace the comments with the actual usage of the components (custom element) -->
 
 ### Props
 * After looking in index.js, in App.js add PropTypes for each prop that index is giving to App

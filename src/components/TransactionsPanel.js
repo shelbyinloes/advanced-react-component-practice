@@ -1,5 +1,5 @@
 import React from "react";
-import TransactionRow from "./TransactionRow";
+import TransactionRow from "./babyComponents/TransactionRow";
 
 function TransactionsPanel() {
   return (
