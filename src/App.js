@@ -9,7 +9,7 @@ import TasksPanel from "./components/TasksPanel";
 import Tickets from "./components/Tickets";
 import TopNav from "./components/TopNav";
 import TransactionsPanel from "./components/TransactionsPanel";
-// import PropTypes from "prop-types";
+import PropTypes from "prop-types";
 
 function App() {    
     // props can go in App
